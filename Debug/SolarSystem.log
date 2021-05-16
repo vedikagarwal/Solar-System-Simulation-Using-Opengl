@@ -1,0 +1,73 @@
+﻿  imageloader.cpp
+  main.cpp
+C:\Users\Mahe\Downloads\Solar-system-master\main.cpp(26,41): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Mahe\Downloads\Solar-system-master\main.cpp(26,34): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Mahe\Downloads\Solar-system-master\main.cpp(37,36): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Mahe\Downloads\Solar-system-master\main.cpp(37,30): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Mahe\Downloads\Solar-system-master\main.cpp(45,38): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Mahe\Downloads\Solar-system-master\main.cpp(47,39): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Mahe\Downloads\Solar-system-master\main.cpp(48,39): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Mahe\Downloads\Solar-system-master\main.cpp(49,39): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Mahe\Downloads\Solar-system-master\main.cpp(50,39): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Mahe\Downloads\Solar-system-master\main.cpp(51,41): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Mahe\Downloads\Solar-system-master\main.cpp(52,41): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Mahe\Downloads\Solar-system-master\main.cpp(53,39): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Mahe\Downloads\Solar-system-master\main.cpp(54,34): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Mahe\Downloads\Solar-system-master\main.cpp(55,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Mahe\Downloads\Solar-system-master\main.cpp(56,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Mahe\Downloads\Solar-system-master\main.cpp(57,34): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Mahe\Downloads\Solar-system-master\main.cpp(58,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Mahe\Downloads\Solar-system-master\main.cpp(59,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Mahe\Downloads\Solar-system-master\main.cpp(60,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Mahe\Downloads\Solar-system-master\main.cpp(61,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Mahe\Downloads\Solar-system-master\main.cpp(62,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Mahe\Downloads\Solar-system-master\main.cpp(63,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Mahe\Downloads\Solar-system-master\main.cpp(140,44): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Mahe\Downloads\Solar-system-master\main.cpp(140,37): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Mahe\Downloads\Solar-system-master\main.cpp(141,44): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Mahe\Downloads\Solar-system-master\main.cpp(141,37): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Mahe\Downloads\Solar-system-master\main.cpp(142,44): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Mahe\Downloads\Solar-system-master\main.cpp(142,37): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Mahe\Downloads\Solar-system-master\main.cpp(143,44): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Mahe\Downloads\Solar-system-master\main.cpp(143,37): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Mahe\Downloads\Solar-system-master\main.cpp(144,44): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Mahe\Downloads\Solar-system-master\main.cpp(144,37): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Mahe\Downloads\Solar-system-master\main.cpp(145,44): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Mahe\Downloads\Solar-system-master\main.cpp(145,37): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Mahe\Downloads\Solar-system-master\main.cpp(146,44): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Mahe\Downloads\Solar-system-master\main.cpp(146,37): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Mahe\Downloads\Solar-system-master\main.cpp(147,44): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Mahe\Downloads\Solar-system-master\main.cpp(147,37): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Mahe\Downloads\Solar-system-master\main.cpp(148,44): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Mahe\Downloads\Solar-system-master\main.cpp(148,37): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Mahe\Downloads\Solar-system-master\main.cpp(190,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Mahe\Downloads\Solar-system-master\main.cpp(203,39): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Mahe\Downloads\Solar-system-master\main.cpp(203,33): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Mahe\Downloads\Solar-system-master\main.cpp(226,39): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Mahe\Downloads\Solar-system-master\main.cpp(226,33): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Mahe\Downloads\Solar-system-master\main.cpp(249,39): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Mahe\Downloads\Solar-system-master\main.cpp(249,33): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Mahe\Downloads\Solar-system-master\main.cpp(272,39): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Mahe\Downloads\Solar-system-master\main.cpp(272,33): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Mahe\Downloads\Solar-system-master\main.cpp(301,39): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Mahe\Downloads\Solar-system-master\main.cpp(301,33): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Mahe\Downloads\Solar-system-master\main.cpp(319,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Mahe\Downloads\Solar-system-master\main.cpp(332,39): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Mahe\Downloads\Solar-system-master\main.cpp(332,33): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Mahe\Downloads\Solar-system-master\main.cpp(352,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Mahe\Downloads\Solar-system-master\main.cpp(365,39): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Mahe\Downloads\Solar-system-master\main.cpp(365,33): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Mahe\Downloads\Solar-system-master\main.cpp(371,32): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Mahe\Downloads\Solar-system-master\main.cpp(371,26): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Mahe\Downloads\Solar-system-master\main.cpp(372,32): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Mahe\Downloads\Solar-system-master\main.cpp(372,26): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Mahe\Downloads\Solar-system-master\main.cpp(389,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Mahe\Downloads\Solar-system-master\main.cpp(402,39): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Mahe\Downloads\Solar-system-master\main.cpp(402,33): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Mahe\Downloads\Solar-system-master\main.cpp(418,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Mahe\Downloads\Solar-system-master\main.cpp(431,39): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Mahe\Downloads\Solar-system-master\main.cpp(431,33): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Mahe\Downloads\Solar-system-master\main.cpp(460,39): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Mahe\Downloads\Solar-system-master\main.cpp(460,33): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+  Generating Code...
+  SolarSystem.vcxproj -> C:\Users\Mahe\Downloads\Solar-system-master\Debug\SolarSystem.exe
